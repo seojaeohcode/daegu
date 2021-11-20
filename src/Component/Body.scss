@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Song+Myung&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Song+Myung&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montagu+Slab&family=Song+Myung&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dongle&family=Montagu+Slab&family=Nanum+Gothic:wght@700&family=Song+Myung&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dongle&family=Montagu+Slab&family=Nanum+Gothic:wght@700&family=Song+Myung&display=swap');
+
+.title{
+    display: flex;
+    font-family: 'Song Myung', serif;
+    background-color: rgb(57, 143, 241);
+    color: white;
+    text-shadow: 1px 1px 5px #000;
+}
+
+.flexbox{
+    display: flex;
+    height: 966px;
+  }
+
+.sec{
+    height: 2900px;
+  }
+
+.leftimagepos{
+    margin-top: 50px;
+    margin-left: 100px;
+} 
+
+.rightimagepos{
+    margin-top: 100px;
+    margin-left: 600px;
+} 
+
+.textbox{
+    position: absolute;
+    width: 700px;
+    height: 600px;
+    outline : solid 6px rgb(60, 129, 75);;
+    background-color: rgb(246, 244, 237);
+    text-align: left;
+    font-family: 'Song Myung', serif;
+}
+
+.one{
+    margin-top: 150px;
+    margin-left: 1100px;
+}
+.two{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.textpos{
+    margin-top: 170px;
+    margin-left: 100px;
+}
+
+h1,h2,h3{
+    margin: 0px;
+    padding: 0px;
+}
+
+#photo{
+    outline : solid 3px rgb(0, 0, 0);
+}
+.Largetitle{
+    text-align: center;
+    font-size: 60px;
+    margin-top: 30px;
+    font-family: 'Montagu Slab', serif;
+    font-family: 'Song Myung', serif;
+    outline : solid 5px rgb(60, 129, 75);;
+}

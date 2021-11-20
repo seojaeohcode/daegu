@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle&family=Montagu+Slab&family=Montserrat:wght@700&family=Nanum+Gothic:wght@700&family=Orbitron:wght@500&family=Song+Myung&display=swap');
+
+.backvideo{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+.linklist{
+    position: absolute;
+    margin-left: 1810px;
+    color: white;
+    font-size: 30px;
+    font-family: 'Dongle', sans-serif;
+font-family: 'Montagu Slab', serif;
+font-family: 'Nanum Gothic', sans-serif;
+font-family: 'Song Myung', serif;
+text-shadow: 5px 5px 5px #000;
+}
+
+.current{
+    background-color: yellowgreen;
+}
+
+.toplist{
+    text-align: center;
+}
+
+.sloganimage{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.slogantext{
+    position: absolute;
+    margin-left: 240px;
+    margin-top: 55px;
+    color: rgb(223, 69, 49);
+    font-size: 35px;
+    font-family: 'Dongle', sans-serif;
+font-family: 'Montagu Slab', serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Nanum Gothic', sans-serif;
+font-family: 'Orbitron', sans-serif;
+font-family: 'Song Myung', serif;
+outline : solid 4px rgb(60, 129, 75);
+-webkit-text-stroke: 1px rgb(0, 0, 0);
+}
+
+.sizeup{
+    width: 1902px;
+    height: 966px;   
+}
+
+a{text-decoration-line: none;}
+a:visited { color:white; }
+a:link { color:white; }
+
