@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/daegu/static/css/main.879961fd.chunk.css",
+    "main.js": "/daegu/static/js/main.09effcca.chunk.js",
+    "main.js.map": "/daegu/static/js/main.09effcca.chunk.js.map",
+    "runtime-main.js": "/daegu/static/js/runtime-main.5994458f.js",
+    "runtime-main.js.map": "/daegu/static/js/runtime-main.5994458f.js.map",
+    "static/js/2.cd720102.chunk.js": "/daegu/static/js/2.cd720102.chunk.js",
+    "static/js/2.cd720102.chunk.js.map": "/daegu/static/js/2.cd720102.chunk.js.map",
+    "index.html": "/daegu/index.html",
+    "static/css/main.879961fd.chunk.css.map": "/daegu/static/css/main.879961fd.chunk.css.map",
+    "static/js/2.cd720102.chunk.js.LICENSE.txt": "/daegu/static/js/2.cd720102.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5994458f.js",
+    "static/js/2.cd720102.chunk.js",
+    "static/css/main.879961fd.chunk.css",
+    "static/js/main.09effcca.chunk.js"
+  ]
+}
